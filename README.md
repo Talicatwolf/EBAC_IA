@@ -21,4 +21,4 @@ Após executar ambos os códigos, adicionei o módulo Time nos scripts para medi
 
 Tempo de execução do original: 0.000285 segundos
 
-Tempo de execução do otimizado:0.000265 segundos
+Tempo de execução do otimizado: 0.000265 segundos
