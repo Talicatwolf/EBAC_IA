@@ -2,7 +2,7 @@
 
 Trabalho para o módulo de IA da EBAC
 
-##Proposta
+## Proposta
 
 Melhorar um código pré-definido, otimizando e comentando o mesmo para melhor legibilidade.
 
